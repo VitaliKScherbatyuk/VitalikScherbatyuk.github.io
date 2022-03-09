@@ -263,7 +263,7 @@ header{
     }
  }
  
-@media screen and(max-width:400px) {
+@media screen and(max-width:545px) {
     *{
         width: 300px;
         margin: 0 auto;  
@@ -277,6 +277,7 @@ header{
         display: none;
     }
     .title_button{
+        margin-left: -20%;
         font-size: 14px;
         .button_title{
             width: 90px;

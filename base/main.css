@@ -346,7 +346,7 @@ footer .map {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 545px) {
   * {
     width: 300px;
     margin: 0 auto;
@@ -360,6 +360,7 @@ footer .map {
     display: none;
   }
   .title_button {
+    margin-left: -20%;
     font-size: 14px;
   }
   .title_button .button_title {
