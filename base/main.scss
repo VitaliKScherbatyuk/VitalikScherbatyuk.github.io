@@ -263,9 +263,10 @@ header{
     }
  }
  
-@media screen and(max-width:320px) {
+@media screen and(max-width:400px) {
     *{
-        width: 300px;  
+        width: 300px;
+        margin: 0 auto;  
     }
     .title_centr0{
         display: inline;
